@@ -40,10 +40,3 @@ ShaoBot is built using [Landbot.io](https://landbot.io/), a no-code chatbot buil
 ## 🛠️ Built With
 
 - [Landbot.io](https://landbot.io/) – No-code platform for designing conversational experiences.
-- HTML/CSS for optional embedding or custom landing pages (if used in this repo).
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
